@@ -1,2 +1,3 @@
 FROM jekyll/jekyll
-RUN bundle add webrick
+WORKDIR /site
+CMD bundle install && bundle exec jekyll serve
