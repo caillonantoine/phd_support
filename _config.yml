@@ -22,7 +22,7 @@ title: Hierarchical Temporal Learning for Music Neural Audio Synthesis
 email: caillon@ircam.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Support webpage for the thesis "Hierarchical Temporal Learning for Music Neural Audio Synthesis"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/phd_support" # the subpath of your site, e.g. /blog
 url: "https://caillonantoine.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: antoine_caillon
 github_username:  caillonantoine
