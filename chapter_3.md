@@ -94,3 +94,7 @@ We show the influence of the fidelity parameter _f_ on the reconstructed samples
 ### Speech
 
 <audio src="https://github.com/acids-ircam/RAVE/raw/gh-pages/random/prior_vctk.mp3" controls ></audio>
+
+## Bonus 2: Try RAVE yourself !
+
+An interactive demo page is [available here](https://caillonantoine.github.io/ravejs), and allows you to try RAVE directly in your browser, without any installation needed !
