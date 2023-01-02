@@ -5,6 +5,6 @@
 layout: home
 ---
 
-# Website in construction
+## Website in progress
 
 Please come back later !
