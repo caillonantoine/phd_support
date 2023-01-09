@@ -39,15 +39,7 @@ Here, we show how modifying the first two dimensions of RAVE trained on darbouka
 | Alteration 1   | <audio src="https://github.com/acids-ircam/RAVE/raw/gh-pages/audio/dim1.mp3" controls></audio>     |
 | Alteration 2   | <audio src="https://github.com/acids-ircam/RAVE/raw/gh-pages/audio/dim2.mp3" controls></audio>     |
 
-## Unconditional generation
 
-We learn the prior distribution of RAVE trained on different datasets with a Wavenet inspired model. This allow to generate 48kHz audio unconditionally faster than realtime on CPU.
-_Stereo_ generation is obtained by decoding two latent trajectories sampled from the same posterior distribution and mapping the obtained signals to the left and right channels.
-
-|         Dataset         | Generation                                                   |
-| :---------------------: | ------------------------------------------------------------ |
-| **Darbouka** _(stereo)_ | <audio src="https://github.com/acids-ircam/RAVE/raw/gh-pages/audio/docs_darbouka_prior.mp3" controls></audio> |
-|    **VCTK** _(mono)_    | <audio src="https://github.com/acids-ircam/RAVE/raw/gh-pages/audio/hierarchical.mp3" controls></audio>        |
 
 ## Balancing compactness and fidelity
 
