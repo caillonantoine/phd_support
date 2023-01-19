@@ -4,7 +4,7 @@ title: Chapter 3
 permalink: /chapter_3/
 ---
 
-## RAVE: A variational autoencoder for fast and high-quality neural audio synthesis
+# RAVE: A variational autoencoder for fast and high-quality neural audio synthesis
 
 ## Timbre transfer
 
